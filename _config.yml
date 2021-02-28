@@ -16,11 +16,11 @@
 
 ## => Site Settings
 ##############################
-text_skin: forest # (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin: "forest" # (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: "tomorrow-night" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : "https://denhur62.github.io"
 baseurl : # does not include hostname
-title   : "denhur blog"
+title   : "denhur"
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
