@@ -1,34 +1,34 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Algorithm
+      en      : &EN       HOME
       zh-HK   : *ZH_HANT
-      ko      : &KO       알고리즘
+      ko      : &KO       홈
       ko-KR   : *KO
       fr      : &FR       Archives
       # @end locale config
-    url: /archive.html
+    url: /index.html
 
   - titles:
       # @start locale config
-      en      : &EN       kotlin
+      en      : &EN        POST
 
       zh-Hans : &ZH_HANS  关于
 
-      ko      : &KO       코딩 
+      ko      : &KO       POST
       ko-KR   : *KO
       fr      : &FR       À propos
       # @end locale config
     url: /archive.html
 
-  - titles:
+  #- titles:
       # @start locale config
-      en      : &EN       Android
+      #en      : &EN       PORTFOLO
 
-      zh-Hans : &ZH_HANS  关于
+      #zh-Hans : &ZH_HANS  关于
 
-      ko      : &KO       코딩 
-      ko-KR   : *KO
-      fr      : &FR       À propos
+      #ko      : &KO       포토폴리오
+      #ko-KR   : *KO
+      #fr      : &FR       À propos
       # @end locale config
-    url: /about.html
+    #url: /portfolo.html
