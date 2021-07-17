@@ -6,7 +6,7 @@
   "aboutMe": {
     "name": "Jun Hyeon Heo",
     "nickName": "denhur62",
-    "profileImg": "../assets/images/profile.jpg",
+    "profileImg": "/assets/images/profile.jpg",
     "email": "denhur62@gmail.com",
     "githubUrl": "https://github.com/denhur62",
     "blogUrl": "https://velog.io/@denhur62"
