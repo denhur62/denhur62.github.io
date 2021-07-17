@@ -9,41 +9,39 @@
  </a>
 </div>
 
-<div align="center">✨ Make your own portfolio! Easy and Fast. ✨</div>
+<div align="center">✨ 빠르고 쉽게 당신의 포트폴리오를 만들어보세요! ✨</div>
 <br />
-
-[🇰🇷 한국어로 보기 🇰🇷](./README.ko.md)
 
 # 💫 ddongule-simple-portfolio
 
-🌟 This is a simple-portfolio template for Developers. You can customize this template to make your own portfolio. You don't have to understand the code. Just edit `db.json` and some assets(`images`, `markdowns`) then it's all done!
+🌟 ddongule-simple-portfolio는 개발자를 위한 간단한 포트폴리오 템플릿입니다! 이 템플릿을 커스터마이징해 자신만의 포트폴리오를 만들어보세요! 코드를 보지 않아도 괜찮아요! `db.json`와 `이미지`, `마크다운`을 편집하면 끝나요!
 
-## 💛 See Example! 👉 ([ddongule's portfolio](https://www.ddongule.com))
+## 💛 예시 보러가기 👉 ([ddongule's portfolio](https://www.ddongule.com))
 
-## 🌿 Features
+## 🌿 기능
 
-- 🔥 One Page Layout
-- 🔥 Responsive Web
-- 🔥 Dark/Light Theme
-- 🔥 Language Support (Korean/English)
+- 🔥 한 페이지에 모든 것을 담았어요!
+- 🔥 반응형으로 만들어졌어요.
+- 🔥 다크모드/라이트모드가 있어요!
+- 🔥 다국어 지원(한국어/영어)
 
-## 🪜 How To Use
+## 🪜 어떻게 사용하나요?
 
-### 1. Clone this repository
+### 1. 이 레포지토리를 클론받으세요.
 
 ```
 $ git clone https://github.com/ddongule/ddongule-simple-portfolio
 ```
 
-### 2. Go into the repository
+### 2. 리포지토리 안에 들어가세요.
 
 ```
 $ cd ddongule-simple-portfolio
 ```
 
-### 3. Install Dependencies and Start Development Server
+### 3. 디펜던시를 다운받고, 서버를 시작하세요!
 
-- Using NPM
+- NPM 사용
 
   ```
   $ npm install
@@ -51,7 +49,7 @@ $ cd ddongule-simple-portfolio
   $ npm start
   ```
 
-- Using Yarn
+- Yarn 사용
 
   ```
     $ yarn
@@ -59,14 +57,14 @@ $ cd ddongule-simple-portfolio
     $ yarn start
   ```
 
-### 4. 🌎 Start Developing! Let's Go!
+### 4. 🌎 포트폴리오를 만들러 떠나볼까요홍홍
 
-## 🚀 Quick Start
+## 🚀 빠르게 시작하기!
 
-> If you do not want to use any of the items below, feel free to delete it from `db.json`! It will work fine!
+> 만약 아래의 내용 중 필요없으신 부분이 있다면 `db.json`에서 Section을 지워버리세요! 그래도 잘 돌아갈거에요!
 
-- example)
-  You can choose sections that you want to use! Just delete it from `db.json`
+- 예시)
+  `db.json`에서 사용하고 싶은 Section만을 빼놓고 나머지를 지워보세요. 아래처럼요! `aboutMe`와 `timestamp`만 사용하고 싶으시다면, 이렇게 작성하시면 돼요!
 
   - `src/db.json`
 
@@ -93,17 +91,17 @@ $ cd ddongule-simple-portfolio
       }
     ```
 
-### 🇰🇷🇺🇸 0. Select Default Language!
+### 🇰🇷🇺🇸 0. 기본 언어를 고르세요!
 
-Default Language : **English**
+초기 언어는 **영어**로 선택되어 있습니다!
 
-**🔥 You can Select whether to use English or Korean**
+**🔥 한국어/영어 중 기본 언어를 고르실 수 있습니다.**
 
   <img src="./public/readme/images/language-select.png" alt="example-image"/>
 
-- Go to `/src/db.json`
+- `/src/db.json`로 가세요.
 
-  #### 🇺🇸 [Default] Set Default Language as English
+  #### 🇺🇸 [Default] 기본 언어를 영어로 세팅하기.
 
   ```
       "meta": {
@@ -113,9 +111,9 @@ Default Language : **English**
       }
   ```
 
-  #### 🇰🇷 Set Default: Korean
+  #### 🇰🇷 기본 언어를 한국어로 세팅하기.
 
-  > If you want to use Korean as your default language, just copy and paste the code below the line.
+  > 아래 코드를 그대로 복사, 붙여넣기 하시면 됩니다! (대/소문자를 구별하기 때문에 오타가 생기면 동작하지 않을 수 있습니다.)
 
   ```
       "meta": {
@@ -129,7 +127,7 @@ Default Language : **English**
 
   <img src="./public/readme/images/mainTitle.png" alt="example-image"/>
 
-- Go to `/src/db.json`
+- `/src/db.json`로 가세요.
 
   ```
       "aboutMe": {
@@ -143,13 +141,13 @@ Default Language : **English**
 
   <img src="./public/readme/images/AboutMe.png" alt="example-image"/>
 
-- Change Main Image
+#### Main Image 바꾸기
 
-1. Put your image to `/public/assets/images`
+1. `/public/assets/images`에 사용하실 이미지를 넣으세요.
 
    - `jpg`, `gif`, `png`
 
-2. Go to `/src/db.json`
+2. `/src/db.json`로 가세요.
    ```
      "aboutMe": {
        ...
@@ -158,21 +156,21 @@ Default Language : **English**
      }
    ```
 
-- Change Introduction Text
+#### Introduction Text 바꾸기
 
-- 🇺🇸 Go to `/src/assets/static/markdown/aboutMySelf.english.md`
+- `/src/assets/static/markdown/aboutMySelf.english.md`로 가세요.
 
-  - (+) To use the Korean version, you should write `aboutMySelf.korean.md` too.
+  - (+) 한국어 버전을 사용하시려면, `aboutMySelf.korean.md`도 바꾸어 주셔야 합니다.
 
-  > **Write With Markdown! Then You'll See..**
+  > **Markdown으로 작성해보세요! 그럼 아래처럼 보일거에요!**
 
   <img src="./public/readme/images/example-markdown.png" alt="example-image"/>
 
-  > The Result will be like this!
+  > 결과는..?! 두근두근 세근네근 💛
 
   <img src="./public/readme/images/example.png" alt="example-image"/>
 
-  1. h1, h2, h3
+  1. h1, h2, h3 사용하기
 
      ```
        # h1
@@ -182,7 +180,7 @@ Default Language : **English**
        ### h3
      ```
 
-  2. Bold text with Highlight
+  2. 하이라이트가 있는 굵은 글씨 사용하기
 
      - yellow
 
@@ -205,13 +203,13 @@ Default Language : **English**
          +G+Hi, my name is ddongule+G+
        ```
 
-  3. Enter
+  3. 엔터 치기
 
      ```
        <br />
      ```
 
-  4. Code
+  4. 코드블록 사용하기
 
      ```
        `React.js`
@@ -219,19 +217,19 @@ Default Language : **English**
        `Javascript`
      ```
 
-  5. CheckList (Black & White)
+  5. 흑백 체크리스트 사용하기
 
      ```
        & Check List(Black & White)
      ```
 
-  6. CheckList (HighLight)
+  6. 색깔이 있는 체크리스트 사용하기
 
      ```
        - Check List(Black & White)
      ```
 
-  7. Ordered List
+  7. 순서가 있는 리스트 사용하기
 
      ```
        1. Ordered List
@@ -240,21 +238,21 @@ Default Language : **English**
        4. Ordered List
      ```
 
-  8. Link
+  8. 링크 삽입하기
 
      ```
-       [TextToShow](https://www.your.link)
+       [보여줄 내용](https://www.your.link)
      ```
 
 ### 👉 3. Skill Sets Section.
 
   <img src="./public/readme/images/SkillSets.png" alt="example-image"/>
 
-Write down your **Professional Skill Sets** here!
+자신있는 **Skill Sets** 들을 적어보세요!
 
-> ✨ Customize your own SkillSets Section!
+> ✨ SkillSets Section을 커스터마이징 해봐요!
 
-- Go to `/src/db.json`
+- `/src/db.json`에 가세요.
 
 ```
 
@@ -275,11 +273,11 @@ Write down your **Professional Skill Sets** here!
 
   <img src="./public/readme/images/Projects.png" alt="example-image"/>
 
-Write down the **Projects** you have made!
+**만들어보신 프로젝트**에 대해서 적어보세요!
 
-> ✨ Customize your own Projects Section!
+> ✨ Projects Section을 커스터마이징 해봐요!
 
-- Go to `/src/db.json`
+- `/src/db.json`에 가세요.
 
 ```
 
@@ -303,11 +301,11 @@ Write down the **Projects** you have made!
 
   <img src="./public/readme/images/Timestamp.png" alt="example-image"/>
 
-Write down your **Timestamps** you have made!
+**걸어온 길**에 대해서 하나씩 적어보세요!
 
-> ✨ Customize your own Timestamp Section!
+> ✨ Timestamp Section을 커스터마이징 해봐요!
 
-- Go to `/src/db.json`
+- `/src/db.json`에 가세요.
 
 ```
 
@@ -327,11 +325,11 @@ Write down your **Timestamps** you have made!
 
   <img src="./public/readme/images/Experiences.png" alt="example-image"/>
 
-Write down your **Experiences** that you have!
+어떤 **경험** 이 있으신지 적어보세요!
 
-> ✨ Customize your own Experiences Section!
+> ✨ Experiences Section을 커스터마이징 해봐요!
 
-- Go to `/src/db.json`
+- `/src/db.json`에 가세요.
 
 ```
 
@@ -350,13 +348,13 @@ Write down your **Experiences** that you have!
 
 ### 👉 7. Education Section.
 
- <img src="./public/readme/images/Education.png" alt="example-image"/>
+  <img src="./public/readme/images/Education.png" alt="example-image"/>
 
-Write down your **Educations**!
+어떤 **교육**을 받으셨는지 적어보세요!
 
-> ✨ Customize your own Education Section!
+> ✨ Education Section을 커스터마이징 해봐요!!
 
-- Go to `/src/db.json`
+- `/src/db.json`에 가세요.
 
 ```
 
@@ -371,11 +369,11 @@ Write down your **Educations**!
 
 ```
 
-## 🐞 Bug Reporting
+## 🐞 버그를 찾으셨나요?
 
-- [Make Issue!](https://github.com/ddongule/ddongule-simple-portfolio/issues)
+- [Issue에 등록해주세요!](https://github.com/ddongule/ddongule-simple-portfolio/issues)
 
-## How to Contribute?
+## 이 레포지토리에 기여하고 싶으신가요?
 
 1. **Fork** this repository
 2. **Create** your own branch: `git checkout -b new-feature`

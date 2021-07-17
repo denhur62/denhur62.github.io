@@ -1,27 +1,18 @@
-*~
-~*
-*.diff
-*.patch
-*.bak
-.DS_Store
-*.swp
-*.swo
+build
+node_modules
+
+.DS_*
 *.log
-*.log.*
+.git
+logs
+**/*.backup.*
+**/*.back.*
 
-/.vscode/
+node_modules
+bower_components
 
-node_modules/
-.sass-cache/
+*.sublime*
 
-/.bundle/
-/vendor/bundle
-*.gem
-
-yarn.lock
-package-lock.json
-Gemfile.lock
-
-_site/
-.jekyll-metadata
-.jekyll-cache/
+psd
+thumb
+sketch

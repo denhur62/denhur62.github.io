@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "denhur62 ",
+    "defaultLanguage": "Korean"
+  },
+  "aboutMe": {
+    "name": "Jun Hyeon Heo",
+    "nickName": "denhur62",
+    "profileImg": "../assets/images/profile.jpg",
+    "email": "denhur62@gmail.com",
+    "githubUrl": "https://github.com/denhur62",
+    "blogUrl": "https://velog.io/@denhur62"
+  },
+
+  "skillSets": [
+    {
+      "category": "Front End Skills",
+      "skills": [
+        { "skill": "Android", "level": "5" },
+        { "skill": "Javascript", "level": "4" },
+        { "skill": "Flutter", "level": "3" },
+        { "skill": "HTML/CSS", "level": "2" }
+      ]
+    },
+    {
+      "category": "Back End Skills",
+      "skills": [
+        { "skill": "Kotlin", "level": "5" },
+        { "skill": "MYSQL", "level": "4" },
+        { "skill": "Java", "level": "4" },
+        { "skill": "Flask", "level": "3" },
+        { "skill": "Python", "level": "3" },
+        { "skill": "MongoDB", "level": "3" },
+        { "skill": "Nodejs", "level": "3" },
+        { "skill": "Deep Learning", "level": "3" }
+
+      ]
+    },
+    {
+      "category": "Collaboration Skills",
+      "skills": [
+        { "skill": "Git/Github" },
+        { "skill": "Notion" },
+        { "skill": "Slack" }
+      ]
+    },
+    {
+      "category": "Etc...",
+      "skills": [
+        { "skill": "Pythonanywhere" },
+        { "skill": "AWS EC2" },
+        { "skill": "Firebase" }
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "imgUrl": "",
+      "githubUrl": "https://github.com/ddongule",
+      "projectUrl": "",
+      "title": "[Team] Project Title",
+      "term": "21.02.02 v1.3.0",
+      "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
+      "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
+      "tags": ["React", "Javascript", "Java", "Spring"]
+    },
+    {
+      "imgUrl": "/assets/images/example-image-light.png",
+      "githubUrl": "https://github.com/ddongule",
+      "projectUrl": "",
+      "title": "[Personal] Project Title",
+      "term": "21.01.01 v1.0.0",
+      "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
+      "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
+      "tags": ["React", "Javascript", "Java", "Spring"]
+    }
+  ],
+
+  "timestamp": [
+    {
+      "title": "SOFTWARE MAESTRO",
+      "when": "21.05 ~ ",
+      "organizer": "Woowa Sisters",
+      "tags": ["outside activities"]
+    },
+
+    {
+      "title": "7 corps military enlistment",
+      "when": "17.08.07 - 29.04.20",
+      "organizer": "7 corps",
+      "tags": ["military"]
+    },
+    {
+      "title": "Sejong University Admission",
+      "when": "20.08.25",
+      "organizer": "Sejong University",
+      "tags": ["graduation"]
+    }
+  ],
+
+  "experiences": [
+    {
+      "imgUrl": "/assets/images/soma.png",
+      "title": "[outside activities] SOFTWARE MAESTRO",
+      "term": "21.05 - 현재 진행 중",
+      "description": "감정 공유 다이어리 커넥티 추천 시스템 및 PM 역할을 하였습니다.",
+      "experienceUrl": "https://www.swmaestro.org/sw/main/main.do"
+    }
+  ],
+
+  "educations": [
+    {
+      "title": "세종대학교 (Sejong University)",
+      "term": "2016.03 - 2022.03",
+      "description": "대학교 졸업"
+    },
+    {
+      "title": "인제 고등학교 (Inje High School)",
+      "term": "2013.03 - 2016.02",
+      "description": "인문계 졸업"
+    },
+    {
+      "title": "구월 중학교 (Guwol Middle School)",
+      "term": "2011.03 - 2013.02",
+      "description": "중학교 졸업"
+    }
+  ]
+}
