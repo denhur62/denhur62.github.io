@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38605bcf.chunk.css",
+    "main.js": "/static/js/main.2e648ab4.chunk.js",
+    "main.js.map": "/static/js/main.2e648ab4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.adce25b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.adce25b3.js.map",
+    "static/js/2.c0baa52d.chunk.js": "/static/js/2.c0baa52d.chunk.js",
+    "static/js/2.c0baa52d.chunk.js.map": "/static/js/2.c0baa52d.chunk.js.map",
+    "static/js/3.97cf45d2.chunk.js": "/static/js/3.97cf45d2.chunk.js",
+    "static/js/3.97cf45d2.chunk.js.map": "/static/js/3.97cf45d2.chunk.js.map",
+    "static/js/4.f1338b06.chunk.js": "/static/js/4.f1338b06.chunk.js",
+    "static/js/4.f1338b06.chunk.js.map": "/static/js/4.f1338b06.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.38605bcf.chunk.css.map": "/static/css/main.38605bcf.chunk.css.map",
+    "static/js/2.c0baa52d.chunk.js.LICENSE.txt": "/static/js/2.c0baa52d.chunk.js.LICENSE.txt",
+    "static/media/aboutMySelf.english.md": "/static/media/aboutMySelf.english.9ea9a1b3.md",
+    "static/media/aboutMySelf.korean.md": "/static/media/aboutMySelf.korean.897d73f2.md",
+    "static/media/global.scss": "/static/media/sun.6d48da50.png",
+    "static/media/index.scss": "/static/media/half-moon.cde80bc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adce25b3.js",
+    "static/js/2.c0baa52d.chunk.js",
+    "static/css/main.38605bcf.chunk.css",
+    "static/js/main.2e648ab4.chunk.js"
+  ]
+}
