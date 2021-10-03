@@ -79,15 +79,21 @@
 
   "timestamp": [
     {
+      "title": "Sejong University Graduation",
+      "when": "21.02.10 ",
+      "organizer": "Sejong University",
+      "tags": ["graduation"]
+    },
+    {
       "title": "SOFTWARE MAESTRO",
-      "when": "21.05 ~ ",
-      "organizer": "Woowa Sisters",
+      "when": "21.05.05 ~ 21.11.20",
+      "organizer": "Korea country",
       "tags": ["outside activities"]
     },
 
     {
       "title": "7 corps military enlistment",
-      "when": "17.08.07 - 29.04.20",
+      "when": "17.08.07 - 19.04.20",
       "organizer": "7 corps",
       "tags": ["military"]
     },
@@ -111,19 +117,19 @@
 
   "educations": [
     {
-      "title": "세종대학교 (Sejong University)",
-      "term": "2016.03 - 2022.03",
-      "description": "대학교 졸업"
+      "title": "제 10회 세종대학교 SW * AI 해커톤",
+      "term": "세종인 전용 축제 플랫폼",
+      "description": "은상"
     },
     {
-      "title": "인제 고등학교 (Inje High School)",
-      "term": "2013.03 - 2016.02",
-      "description": "인문계 졸업"
+      "title": "제 11회 세종대학교 캡스톤 경진대회",
+      "term": "세종인 전용 Online-OJ",
+      "description": "우수상"
     },
     {
-      "title": "구월 중학교 (Guwol Middle School)",
-      "term": "2011.03 - 2013.02",
-      "description": "중학교 졸업"
+      "title": "2019 교내 SW코딩경시대회",
+      "term": "세종 코딩 경시대회",
+      "description": "장려상"
     }
   ]
 }
