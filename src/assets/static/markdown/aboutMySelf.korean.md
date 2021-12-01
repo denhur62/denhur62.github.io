@@ -2,13 +2,13 @@
 
 # 안녕하세요!
 
-## 제 이름은 **denhur62** 입니다.
+## 제 이름은 **ddongule** 입니다.
 
-## **저는 안드로이드 개발자 입니다!**
+## **저는 프론트엔드 개발자 입니다!**
 
 <br />
 
-### 제 Github은 .. [www.github.com/denhur62](www.github.com/denhur62)
+### 제 Github은 .. [www.github.com/ddongule](www.github.com/ddongule)
 
 <br />
 

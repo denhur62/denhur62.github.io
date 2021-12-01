@@ -12,7 +12,7 @@ const Education = () => {
     <>
       {educations &&
         <>
-          <SubTitle>Awards</SubTitle>
+          <SubTitle>Education</SubTitle>
           <div className='education-container'>
             {educations && educations.map((education, index) => (
               <EducationItem key={index} education={education} />

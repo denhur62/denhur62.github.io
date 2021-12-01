@@ -7,7 +7,7 @@
     "name": "Jun Hyeon Heo",
     "nickName": "denhur62",
     "profileImg": "/assets/images/profile.jpg",
-    "email": "denhur62@gmail.com",
+    "email": "denhur62@naver.com",
     "githubUrl": "https://github.com/denhur62",
     "blogUrl": "https://velog.io/@denhur62"
   },
@@ -17,7 +17,6 @@
       "category": "Front End Skills",
       "skills": [
         { "skill": "Android", "level": "5" },
-        { "skill": "Javascript", "level": "4" },
         { "skill": "Flutter", "level": "3" },
         { "skill": "HTML/CSS", "level": "2" }
       ]
@@ -25,14 +24,11 @@
     {
       "category": "Back End Skills",
       "skills": [
-        { "skill": "Kotlin", "level": "5" },
-        { "skill": "MYSQL", "level": "4" },
-        { "skill": "Java", "level": "4" },
         { "skill": "Flask", "level": "3" },
-        { "skill": "Python", "level": "3" },
+        { "skill": "Nodejs", "level": "4" },
+        { "skill": "Pytorch", "level": "3" },
         { "skill": "MongoDB", "level": "3" },
-        { "skill": "Nodejs", "level": "3" },
-        { "skill": "Deep Learning", "level": "3" }
+        { "skill": "MYSQL", "level": "4" }
 
       ]
     },
@@ -40,40 +36,43 @@
       "category": "Collaboration Skills",
       "skills": [
         { "skill": "Git/Github" },
-        { "skill": "Notion" },
-        { "skill": "Slack" }
+        { "skill": "Gitlab" },
+        { "skill": "Slack" },
+        { "skill": "Notion" }
       ]
     },
     {
-      "category": "Etc...",
+      "category": "languages",
       "skills": [
-        { "skill": "Pythonanywhere" },
-        { "skill": "AWS EC2" },
-        { "skill": "Firebase" }
+        { "skill": "Kotlin", "level": "5" },
+        { "skill": "Javascript", "level": "4" },
+        { "skill": "Python", "level": "4" },
+        { "skill": "Java", "level": "4" }
+        
       ]
     }
   ],
 
   "projects": [
     {
-      "imgUrl": "",
-      "githubUrl": "https://github.com/ddongule",
-      "projectUrl": "",
-      "title": "[Team] Project Title",
-      "term": "21.02.02 v1.3.0",
-      "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "tags": ["React", "Javascript", "Java", "Spring"]
+      "imgUrl":"/assets/images/connectee.png",
+      "githubUrl": "https://github.com/denhur62/Connectee_recommend",
+      "projectUrl": "https://github.com/denhur62/Connectee_recommend",
+      "title": "[Team] 감정기반 공유 다이어리",
+      "term": "21.12.01 v1.0.1",
+      "description": "사용자가 자신의 감정 상태를 7가지 감정 종류에 따라 수치화하여 입력한 뒤, 그 감정에 관한 다이어리를 작성하고 공유하는 플랫폼입니다. 감정을 사용자 측으로부터 직접 입력받기 때문에, 감정에 따른 사용자의 글을 분석하고 감정 데이터를 기반으로 글을 분석하여 감정을 판단하는 정부 과제에 기여 할 수 있습니다.",
+      "attribution": "LDA와 Fasttext를 통한 토픽 관련 추천시스템 구현 및 사용자의 기록을 학습한 VAE를 통해 감정기반 추천 시스템 마련 및 PM으로서 프로젝트 기획 및 관리하였습니다.",
+      "tags": ["Python", "Flask", "Pytorch", "LDA","Fasttext","VAE"]
     },
     {
-      "imgUrl": "/assets/images/example-image-light.png",
-      "githubUrl": "https://github.com/ddongule",
-      "projectUrl": "",
-      "title": "[Personal] Project Title",
-      "term": "21.01.01 v1.0.0",
-      "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "tags": ["React", "Javascript", "Java", "Spring"]
+      "imgUrl":"/assets/images/sejong.png",
+      "githubUrl": "https://github.com/donut0310/Sejong-SQL-OJ",
+      "projectUrl": "https://github.com/donut0310/Sejong-SQL-OJ",
+      "title": "[Team] Sejong-SQL-OJ",
+      "term": "21.07.10 v1.0.0",
+      "description": "'Sejong SQL OJ'는 사용자의 입력 쿼리문을 관리자가 만들어 놓은 테이블에 적용시켜 정오답을 가리는 온라인 채점 프로그램입니다. 기존에 데이터 베이스 수업 내에 손코딩으로 이루어졌던 평가 방식에서 편의성과 효율성 그리고 교육의 질을 더 높이고자 개발되었습니다.",
+      "attribution": "Nodejs와 Mysql 를 사용한 백앤드 구현 및 팀장으로서 프로젝트 기획하였습니다",
+      "tags": ["Javascipt", "Nodejs", "Mysql"]
     }
   ],
 
@@ -109,9 +108,9 @@
     {
       "imgUrl": "/assets/images/soma.png",
       "title": "[outside activities] SOFTWARE MAESTRO",
-      "term": "21.05 - 현재 진행 중",
-      "description": "감정 공유 다이어리 커넥티 추천 시스템 및 PM 역할을 하였습니다.",
-      "experienceUrl": "https://www.swmaestro.org/sw/main/main.do"
+      "term": "21.05 - 21.12",
+      "description": "감정 공유 다이어리 커넥티 추천 시스템 및 PM 역할",
+      "experienceUrl": "https://github.com/denhur62/Connectee_recommend"
     }
   ],
 
