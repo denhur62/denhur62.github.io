@@ -10,6 +10,7 @@
     "email": "denhur62@naver.com",
     "githubUrl": "https://github.com/denhur62",
     "blogUrl": "https://velog.io/@denhur62"
+    
   },
 
   "skillSets": [
@@ -33,15 +34,6 @@
       ]
     },
     {
-      "category": "Collaboration Skills",
-      "skills": [
-        { "skill": "Git/Github" },
-        { "skill": "Gitlab" },
-        { "skill": "Slack" },
-        { "skill": "Notion" }
-      ]
-    },
-    {
       "category": "languages",
       "skills": [
         { "skill": "Kotlin", "level": "5" },
@@ -49,6 +41,15 @@
         { "skill": "Python", "level": "4" },
         { "skill": "Java", "level": "4" }
         
+      ]
+    },
+    {
+      "category": "Collaboration Skills",
+      "skills": [
+        { "skill": "Git/Github" },
+        { "skill": "Gitlab" },
+        { "skill": "Slack" },
+        { "skill": "Notion" }
       ]
     }
   ],
@@ -61,8 +62,28 @@
       "title": "[Team] 감정기반 공유 다이어리",
       "term": "21.12.01 v1.0.1",
       "description": "사용자가 자신의 감정 상태를 7가지 감정 종류에 따라 수치화하여 입력한 뒤, 그 감정에 관한 다이어리를 작성하고 공유하는 플랫폼입니다. 감정을 사용자 측으로부터 직접 입력받기 때문에, 감정에 따른 사용자의 글을 분석하고 감정 데이터를 기반으로 글을 분석하여 감정을 판단하는 정부 과제에 기여 할 수 있습니다.",
-      "attribution": "LDA와 Fasttext를 통한 토픽 관련 추천시스템 구현 및 사용자의 기록을 학습한 VAE를 통해 감정기반 추천 시스템 마련 및 PM으로서 프로젝트 기획 및 관리하였습니다.",
-      "tags": ["Python", "Flask", "Pytorch", "LDA","Fasttext","VAE"]
+      "attribution": "LDA와 Fasttext를 통한 토픽 관련 추천시스템 구현 및 사용자의 기록을 학습한 VAE를 통해 감정기반 추천 시스템 마련 및 PM으로서 프로젝트 기획 및 관리하였습니다. 이를 통해 개발자로서 코드를 잘 짜는 것도 중요하지만 팀장으로서 팀을 리드하는 것과 협업을 잘하는 것도 중요하다는 것을 깨달았습니다.",
+      "tags": ["Python", "Flask","MySQL","Pytorch" ]
+    },
+    {
+      "imgUrl":"/assets/images/sfp.png",
+      "githubUrl": "https://github.com/denhur62/sejong-online-festival",
+      "projectUrl": "https://github.com/denhur62/sejong-online-festival",
+      "title": "[Team] 세종대학교 비대면 축제 서비스 플랫폼",
+      "term": "21.10.11 v1.0.0",
+      "description": "현재 학생회나 동아리에 소속되어 있지 않은 학생들은 부스를 만드는 등 축제에 주도적인 참여가 불가능합니다. 하지만 저희 플랫폼을 통해서 개인으로도 축제에 참여 할 기회를 제공받는다면 축제를 직접 기여하여 축제에 몰입할 수 있을 것 입니다. 또 한 채팅, 응원하기, 방명록 등 학생들간의 소통 공유를 최대한 이끌어 낼 수 있는 서비스를 구현함으로써 비대면으로 무뎌진 소속감을 끌어 올릴 수 있는 플랫폼을 구축하는 것이 목표입니다.",
+      "attribution": "FLASK와 MongoDB를 이용한 백앤드 구현을 통해서 처음으로 이미지를 주고 받는 API를 구현 해보았습니다. ",
+      "tags": ["Python", "Flask", "MongoDB"]
+    },
+    {
+      "imgUrl":"/assets/images/congress.png",
+      "githubUrl": "https://github.com/stg0123/assembly_project",
+      "projectUrl": "https://github.com/stg0123/assembly_project",
+      "title": "[Team] 국회.GG",
+      "term": "21.7.12 v1.0.1",
+      "description": "최근 발의되는 법을 쉽게 접하기 힘든 사회적 문제를 해결하고 법안에 대한 다양한 의견을 한곳에서 공유할 수 있도록 공공데이터를 이용하여 국회의원들이 발의하는 법안을 보여주는 해커톤 프로젝트 입니다.",
+      "attribution": "국회 사무처 공공데이터를 가져오는 역할과 MYSQL 테이블 정의 , Django API 구현하면서 새로운 백앤드 프레임워크에 대해 이해 할 수 있었습니다. ",
+      "tags": ["Python", "Django", "MySQL"]
     },
     {
       "imgUrl":"/assets/images/sejong.png",
@@ -71,8 +92,18 @@
       "title": "[Team] Sejong-SQL-OJ",
       "term": "21.07.10 v1.0.0",
       "description": "'Sejong SQL OJ'는 사용자의 입력 쿼리문을 관리자가 만들어 놓은 테이블에 적용시켜 정오답을 가리는 온라인 채점 프로그램입니다. 기존에 데이터 베이스 수업 내에 손코딩으로 이루어졌던 평가 방식에서 편의성과 효율성 그리고 교육의 질을 더 높이고자 개발되었습니다.",
-      "attribution": "Nodejs와 Mysql 를 사용한 백앤드 구현 및 팀장으로서 프로젝트 기획하였습니다",
-      "tags": ["Javascipt", "Nodejs", "Mysql"]
+      "attribution": "Nodejs와 Mysql 를 사용한 백앤드 구현 및 팀장으로서 프로젝트 기획함과 동시에 프론트 백앤드 간의 REST API 를 이해할 수 있었습니다.",
+      "tags": ["Javascipt", "Nodejs", "MySQL"]
+    },
+    {
+      "imgUrl":"/assets/images/hungrydog.png",
+      "githubUrl": "https://github.com/Nam-Ki-Bok/HungryDog-Refactoring",
+      "projectUrl": "https://github.com/Nam-Ki-Bok/HungryDog-Refactoring",
+      "title": "[Team] HungryDog",
+      "term": "21.07.10 v1.0.0",
+      "description": "'HungryDog'은 강아지를 통해 뼈다귀를 밥그릇에 옮기는 Java 게임 입니다. 기존에 구조화 되어있지 않은 프로젝트를 MVC패턴에 맞게 개선하고 패널에 State 패턴을 부여하여 각 상태에 맞는 패널을 Frame에 올리는 방식으로 리펙토링하였습니다.",
+      "attribution": "처음으로 팀 프로젝트를 진행하면서 git을 배웠고 팀장으로서 기획 및 역할분담을 하였고 JAVA 리펙토링을 통해서 프로젝트 구조에 대한 중요성을 느꼈습니다.",
+      "tags": ["Java", "JFrame", "Refactoring"]
     }
   ],
 
