@@ -10,6 +10,7 @@
     "email": "denhur62@naver.com",
     "githubUrl": "https://github.com/denhur62",
     "blogUrl": "https://velog.io/@denhur62"
+
     
   },
 
@@ -137,11 +138,18 @@
 
   "experiences": [
     {
+      "imgUrl": "/assets/images/lgcns.png",
+      "title": "[Intern] LG CNS 신한 NEW LIFE 인턴",
+      "term": "21.11 - 21.12",
+      "description": "신한라이프 IT 시스템 통합 프로젝트에 보험 상품 라이프 사이클 중에서 처리계 라이프 사이클을 테스트하는 역할을 맡았습니다. 청약 프로세스테스트와 계약 변경 테스트를 진행하였고 MDD를 배움으로서 보험 영업관리에서 요구되는 금융 사전 지식 습득 및 금융 운영 프로세스를 경험 할 수 있었습니다.",
+      "experienceUrl": "https://www.lgcns.com/"
+    },
+    {
       "imgUrl": "/assets/images/soma.png",
       "title": "[outside activities] SOFTWARE MAESTRO",
       "term": "21.05 - 21.12",
-      "description": "감정 공유 다이어리 커넥티 추천 시스템 및 PM 역할",
-      "experienceUrl": "https://github.com/denhur62/Connectee_recommend"
+      "description": "감정 공유 다이어리 커넥티 추천 시스템 및 PM 역할을 통한 협업 능력 향상 및 다양한 기술을 접할수 있었습니다.",
+      "experienceUrl": "https://www.swmaestro.org/sw/main/main.do"
     }
   ],
 

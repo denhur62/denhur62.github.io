@@ -1,39 +1,33 @@
 <br />
 
-# Hi!
+## 안녕하세요!
 
-## my Name is **ddongule**
+## Enjoying various challenges
 
-## I am Software Engineer
-
-## **Professional in Front-End**
+## **Back & Engineer Heo Junhyun!** 
 
 <br />
 
-### My Github is .. [www.github.com/ddongule](www.github.com/ddongule)
+## Sejong University, Department of Computer Science.
+
+## grade : 4.2
 
 <br />
 
-## - +R+Red HighLight+R+
-
-## - +G+Green HighLight+G+
-
-## - +B+Blue HighLight+B+
-
-<br /><br />
-
-I am Good at `React.js`, `HTML/CSS(SASS)`, `Javascript`!
-
-& Check List (Black & White)
-
-- Check List (Highlight)
+# I love it..
 
 <br />
 
-1. Ordered List
-2. Ordered List
-3. Ordered List
-4. Ordered List
+### - I want to improve my development skills through +R+various team projects+R+.
 
-<br />
+& I enjoy growing up by sharing knowledge with my colleagues through team projects.
+
+### - I try to develop it from the +G+perspective of customers.+G+
+
+&  It doesn't just write the code, it solves the essential problem.
+
+### - Furthermore, he is a person who considers more +B+meaningful code.+B+
+
+&  I think about how to write things that others can easily understand.
+
 <br />
