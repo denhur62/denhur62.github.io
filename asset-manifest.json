@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.94b04020.chunk.css",
-    "main.js": "/static/js/main.96d6b6cc.chunk.js",
-    "main.js.map": "/static/js/main.96d6b6cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7bd7a0c3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7bd7a0c3.js.map",
+    "main.js": "/static/js/main.c96b9417.chunk.js",
+    "main.js.map": "/static/js/main.c96b9417.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e720c47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e720c47.js.map",
     "static/js/2.8a07bb92.chunk.js": "/static/js/2.8a07bb92.chunk.js",
     "static/js/2.8a07bb92.chunk.js.map": "/static/js/2.8a07bb92.chunk.js.map",
-    "static/js/3.105234c7.chunk.js": "/static/js/3.105234c7.chunk.js",
-    "static/js/3.105234c7.chunk.js.map": "/static/js/3.105234c7.chunk.js.map",
-    "static/js/4.f95595bc.chunk.js": "/static/js/4.f95595bc.chunk.js",
-    "static/js/4.f95595bc.chunk.js.map": "/static/js/4.f95595bc.chunk.js.map",
+    "static/js/3.c91c3088.chunk.js": "/static/js/3.c91c3088.chunk.js",
+    "static/js/3.c91c3088.chunk.js.map": "/static/js/3.c91c3088.chunk.js.map",
+    "static/js/4.02387b7e.chunk.js": "/static/js/4.02387b7e.chunk.js",
+    "static/js/4.02387b7e.chunk.js.map": "/static/js/4.02387b7e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.94b04020.chunk.css.map": "/static/css/main.94b04020.chunk.css.map",
     "static/js/2.8a07bb92.chunk.js.LICENSE.txt": "/static/js/2.8a07bb92.chunk.js.LICENSE.txt",
-    "static/media/aboutMySelf.english.md": "/static/media/aboutMySelf.english.9ea9a1b3.md",
-    "static/media/aboutMySelf.korean.md": "/static/media/aboutMySelf.korean.9800ac76.md",
+    "static/media/aboutMySelf.english.md": "/static/media/aboutMySelf.english.afe02baa.md",
+    "static/media/aboutMySelf.korean.md": "/static/media/aboutMySelf.korean.a4aacf0c.md",
     "static/media/global.scss": "/static/media/sun.6d48da50.png",
     "static/media/index.scss": "/static/media/half-moon.cde80bc0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bd7a0c3.js",
+    "static/js/runtime-main.0e720c47.js",
     "static/js/2.8a07bb92.chunk.js",
     "static/css/main.94b04020.chunk.css",
-    "static/js/main.96d6b6cc.chunk.js"
+    "static/js/main.c96b9417.chunk.js"
   ]
 }
