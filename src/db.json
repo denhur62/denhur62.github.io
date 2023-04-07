@@ -18,7 +18,7 @@
     {
       "category": "Front End Skills",
       "skills": [
-        { "skill": "Android", "level": "5" },
+        { "skill": "Android", "level": "3" },
         { "skill": "Flutter", "level": "3" },
         { "skill": "HTML/CSS", "level": "2" }
       ]
@@ -26,10 +26,11 @@
     {
       "category": "Back End Skills",
       "skills": [
-        { "skill": "Flask", "level": "3" },
+        { "skill": "Flask", "level": "4" },
         { "skill": "Nodejs", "level": "4" },
-        { "skill": "Pytorch", "level": "3" },
+        { "skill": "SpringBoot", "level": "4" },
         { "skill": "MongoDB", "level": "3" },
+        { "skill": "Oracle", "level": "5" },
         { "skill": "MYSQL", "level": "4" }
 
       ]
@@ -37,7 +38,7 @@
     {
       "category": "languages",
       "skills": [
-        { "skill": "Kotlin", "level": "5" },
+        { "skill": "Kotlin", "level": "4" },
         { "skill": "Javascript", "level": "4" },
         { "skill": "Python", "level": "4" },
         { "skill": "Java", "level": "4" }
@@ -57,9 +58,19 @@
 
   "projects": [
     {
+      "imgUrl":"/assets/images/lgcns.png",
+      "githubUrl": "https://velog.io/@denhur62/%EC%8B%A4%ED%8C%A8%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4-SI-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D",
+      "projectUrl": "https://velog.io/@denhur62/%EC%8B%A4%ED%8C%A8%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4-SI-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D",
+      "title": "[Company Project] 차세대 사회 보장 시스템 ",
+      "term": "22.03.01 v1.0.1",
+      "description": "차세대 사회보장 시스템에서 ETL 툴을 활용한 데이터 전환 및 양곡 지원 신청 부분을 맡았습니다. 양곡지원을 받을 수 있는 자격 13개를 조사하여 우선순위가 높은 자격으로 양곡지원을 받을 수 있게 하며 해당 읍면동 주무관님이 관리하는 대상자들을 조회하는 메인 화면 구성 및 비지니스 로직을 구현하였습니다.",
+      "attribution": "오라클에 대한 전반적인 지식 습득 및 데브온 프레임워크라는 Spring을 감싼 프레임워크를 사용하여 구현하였습니다.",
+      "tags": ["JAVA", "Spring Boot","Oracle","Spring Batch" ]
+    },
+    {
       "imgUrl":"/assets/images/connectee.png",
       "githubUrl": "https://github.com/denhur62/Connectee_recommend",
-      "projectUrl": "https://github.com/denhur62/Connectee_recommend",
+      "projectUrl": "https://pool-periodical-7cf.notion.site/Connectee-86b809bfb4e748e9b856969b56524044",
       "title": "[Team] 감정기반 공유 다이어리",
       "term": "21.12.01 v1.0.1",
       "description": "사용자가 자신의 감정 상태를 7가지 감정 종류에 따라 수치화하여 입력한 뒤, 그 감정에 관한 다이어리를 작성하고 공유하는 플랫폼입니다. 감정을 사용자 측으로부터 직접 입력받기 때문에, 감정에 따른 사용자의 글을 분석하고 감정 데이터를 기반으로 글을 분석하여 감정을 판단하는 정부 과제에 기여 할 수 있습니다.",
@@ -109,6 +120,12 @@
   ],
 
   "timestamp": [
+    {
+      "title": "LG CNS joined",
+      "when": "22.01.03 ",
+      "organizer": "LG CNS",
+      "tags": ["company"]
+    },
     {
       "title": "Sejong University Graduation",
       "when": "21.02.10 ",
