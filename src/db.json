@@ -6,7 +6,7 @@
   "aboutMe": {
     "name": "Jun Hyeon Heo",
     "nickName": "denhur62",
-    "profileImg": "/assets/images/profile2.jpg",
+    "profileImg": "/assets/images/profile2.png",
     "email": "denhur62@naver.com",
     "githubUrl": "https://github.com/denhur62",
     "blogUrl": "https://velog.io/@denhur62"
@@ -49,13 +49,13 @@
 
   "projects": [
     {
-      "imgUrl": "/assets/images/ke2.png",
+      "imgUrl": "/assets/images/ke3.png",
       "githubUrl": "https://www.lgcns.com/kr/moa/customer-story/detail.96",
       "projectUrl": "https://www.lgcns.com/kr/moa/customer-story/detail.96",
       "title": "[Company Project] 대한항공 PNS AO ",
       "term": "24.12.01 ~26.06.19 v1.0.1",
-      "description": "차세대 사회보장 시스템에서 ETL 툴을 활용한 데이터 전환 및 양곡 지원 신청 부분을 맡았습니다. 양곡지원을 받을 수 있는 자격 13개를 조사하여 우선순위가 높은 자격으로 양곡지원을 받을 수 있게 하며 해당 읍면동 주무관님이 관리하는 대상자들을 조회하는 메인 화면 구성 및 비지니스 로직을 구현하였습니다.",
-      "attribution": "오라클에 대한 전반적인 지식 습득 및 ETL 툴을 활용한 대규모 데이터 마이그레이션, Spring프레임워크를 사용하여 구현하였습니다.",
+      "description": "항공 고객 안내 시스템(PNS) 운영 및 개선 프로젝트(AO)에 참여하여, 실시간 항공편 정보 기반의 고객 알림 서비스 안정성과 성능을 개선했습니다.",
+      "attribution": "기존 시스템의 처리 지연 및 유지보수 어려움을 해결하기 위해 로그 분석 및 장애 대응 프로세스를 정비하고, API 및 배치 처리 구조를 개선하여 서비스 가용성과 응답 속도를 향상시켰습니다.",
       "tags": [
         "JAVA",
         "Spring Boot",
@@ -66,23 +66,23 @@
       ]
     },
     {
-      "imgUrl": "/assets/images/ke2.png",
+      "imgUrl": "/assets/images/ke3.png",
       "githubUrl": "https://www.lgcns.com/kr/moa/customer-story/detail.96",
       "projectUrl": "https://www.lgcns.com/kr/moa/customer-story/detail.96",
       "title": "[Company Project] 대한항공 주기장시스템 재구축 ",
       "term": "24.12.01 v1.0.1",
-      "description": "차세대 사회보장 시스템에서 ETL 툴을 활용한 데이터 전환 및 양곡 지원 신청 부분을 맡았습니다. 양곡지원을 받을 수 있는 자격 13개를 조사하여 우선순위가 높은 자격으로 양곡지원을 받을 수 있게 하며 해당 읍면동 주무관님이 관리하는 대상자들을 조회하는 메인 화면 구성 및 비지니스 로직을 구현하였습니다.",
-      "attribution": "오라클에 대한 전반적인 지식 습득 및 ETL 툴을 활용한 대규모 데이터 마이그레이션, Spring프레임워크를 사용하여 구현하였습니다.",
+      "description": "주기장 운영 시스템 재구축 프로젝트에 참여하여, 기존 Windows 환경에서만 동작하던 레거시 프로그램을 웹 기반 시스템으로 전환했습니다. 실시간 데이터 조회 기능을 구현하고 1A 기준 탑승객 정보를 실시간으로 제공할 수 있도록 데이터 처리 구조를 개선하여 사용자 편의성과 서비스 접근성을 향상시켰습니다.",
+      "attribution": "기존 시스템의 불편사항을 분석하여 UI/UX를 개선하고 신규 기능을 추가했으며, 클라우드 환경에서의 모니터링 체계를 도입하여 장애 대응 속도와 운영 효율성을 높였습니다.",
       "tags": ["JAVA", "Spring Boot", "Postgresql", "Spring Batch", "DataDog"]
     },
     {
-      "imgUrl": "/assets/images/ke2.png",
+      "imgUrl": "/assets/images/ke3.png",
       "githubUrl": "https://www.lgcns.com/kr/moa/customer-story/detail.96",
       "projectUrl": "https://www.lgcns.com/kr/moa/customer-story/detail.96",
       "title": "[Company Project] 대한항공 KAMS 재구축 ",
       "term": "24.04.01 v1.0.1",
-      "description": "차세대 사회보장 시스템에서 ETL 툴을 활용한 데이터 전환 및 양곡 지원 신청 부분을 맡았습니다. 양곡지원을 받을 수 있는 자격 13개를 조사하여 우선순위가 높은 자격으로 양곡지원을 받을 수 있게 하며 해당 읍면동 주무관님이 관리하는 대상자들을 조회하는 메인 화면 구성 및 비지니스 로직을 구현하였습니다.",
-      "attribution": "오라클에 대한 전반적인 지식 습득 및 ETL 툴을 활용한 대규모 데이터 마이그레이션, Spring프레임워크를 사용하여 구현하였습니다.",
+      "description": "항공기에서 수신되는 메시지의 안정적인 처리와 실시간 데이터 저장을 위해 스트리밍 구조를 개선하고, 장애 발생 시에도 안정적으로 처리할 수 있도록 시스템 신뢰성을 강화했습니다.",
+      "attribution": "Oracle DB를 Aurora로 전환하여 고가용성과 확장성을 확보하고, 클라우드 환경에서의 운영 효율성을 강화했습니다.",
       "tags": [
         "JAVA",
         "Spring Boot",
