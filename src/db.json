@@ -15,34 +15,27 @@
   "skillSets": [
     {
       "category": " Certification",
-      "skills": [{ "skill": "AWS Certified DevOps Engineer – Professional" }]
+      "skills": [
+        { "skill": "AWS Certified DevOps Engineer – Professional" },
+        { "skill": "AWS Certified Generative AI Developer - Professional" },
+        { "skill": "AWS Certified AI Practitioner" }
+      ]
     },
     {
       "category": "Back End Skills",
       "skills": [
-        { "skill": "SpringBoot", "level": "4" },
         { "skill": "Postgresql", "level": "5" },
         { "skill": "Oracle", "level": "5" },
+        { "skill": "SpringBoot", "level": "4" },
+        { "skill": "Kafka", "level": "3" },
         { "skill": "MYSQL", "level": "4" }
       ]
     },
     {
-      "category": "languages",
+      "category": "Back End Skills",
       "skills": [
-        { "skill": "Python", "level": "3" },
-        { "skill": "Java", "level": "4" }
-      ]
-    },
-    {
-      "category": "Collaboration Skills",
-      "skills": [
-        { "skill": "Git/Github" },
-        { "skill": "Gitlab" },
-        { "skill": "Slack" },
-        { "skill": "Notion" },
-        { "skill": "Bitbucket" },
-        { "skill": "Jira" },
-        { "skill": "Confluence" }
+        { "skill": "DataDog", "level": "4" },
+        { "skill": "OpenSearch", "level": "3" }
       ]
     }
   ],
@@ -54,7 +47,7 @@
       "projectUrl": "https://www.lgcns.com/kr/moa/customer-story/detail.96",
       "title": "[Company Project] 대한항공 PNS AO ",
       "term": "24.12.01 ~26.06.19 v1.0.1",
-      "description": "항공 고객 안내 시스템(PNS) 운영 및 개선 프로젝트(AO)에 참여하여, 실시간 항공편 정보 기반의 고객 알림 서비스 안정성과 성능을 개선했습니다.",
+      "description": "항공 고객 안내 시스템(PNS) 운영 및 개선 프로젝트(AO)에 참여하여 VM 기반 배치 시스템을 Fargate on EKS Serverless 구조로 전환하여 운영 효율 개선 및 실시간 항공편 정보 기반의 고객 알림 서비스 안정성과 성능을 개선했습니다.",
       "attribution": "기존 시스템의 처리 지연 및 유지보수 어려움을 해결하기 위해 로그 분석 및 장애 대응 프로세스를 정비하고, API 및 배치 처리 구조를 개선하여 서비스 가용성과 응답 속도를 향상시켰습니다.",
       "tags": [
         "JAVA",
@@ -81,7 +74,7 @@
       "projectUrl": "https://www.lgcns.com/kr/moa/customer-story/detail.96",
       "title": "[Company Project] 대한항공 KAMS 재구축 ",
       "term": "24.04.01 v1.0.1",
-      "description": "항공기에서 수신되는 메시지의 안정적인 처리와 실시간 데이터 저장을 위해 스트리밍 구조를 개선하고, 장애 발생 시에도 안정적으로 처리할 수 있도록 시스템 신뢰성을 강화했습니다.",
+      "description": "기존 IBM MQ 기반 항공기 메시징 시스템을 Kafka 기반 실시간 데이터 처리 구조로 전환하고, 항공기에서 수신되는 메시지의 안정적인 처리와 실시간 데이터 저장을 위해 스트리밍 구조를 개선하고, 장애 발생 시에도 안정적으로 처리할 수 있도록 시스템 신뢰성을 강화했습니다.",
       "attribution": "Oracle DB를 Aurora로 전환하여 고가용성과 확장성을 확보하고, 클라우드 환경에서의 운영 효율성을 강화했습니다.",
       "tags": [
         "JAVA",
